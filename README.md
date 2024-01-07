@@ -36,6 +36,13 @@ React.js ve Node.js Bağımlılıkları şu şekildedir;
 - Cors  (Veri tabanına erişim izinlerinin yönetilmesi amacıyla kullanılmıştır.)
 - Dot Env  (Veri tabanına erişim bilgilerinin tutulması amacıyla kullanılmıştır.)
 
+## Kurulum
+Bağımlılıkların yüklenmesi; Bağımlılıkları yüklemek için hem client hem de server dosyaları için 'npm install' komutunu kullanınız.
+
+Veri tabanı bağlantısı; Veri tabanı bağlantısının kurulabilmesi için server dosyası içerisindeki .env dosyasındaki bilgileri veri tabanınıza uygun bir biçimde girmeniz gerekmektedir. Lokalde çalıştırmak için hostname kısmına localhost, database user kısmını veri tabanı bilgilerinize göre giriniz. (Default olarak root adında gelir.), database name alanı ve database şifrenizi girerek bağlantınızı oluşturun.
+Serveri ayağa kaldırmak için server dosyası içerisinden node index.js komutunu çalıştırın, cevap olarak MySQL bağlantısının başarıyla kurulduğunun bilgisini almalısınız.
+Son olarak client dosyası içerisinden npm start komutunu girerek clienti başlatarak 3000 portundan görüntüleyebilirsiniz.
+
 
 ## Server Durumu Göstergesi
 Serverin sorunsuz şekilde çalışır durumda olup olmadığının kontrol edildiği ikondur. Bu ikon yeşil olduğunda serverin sorunsuz çalıştığını göstermektedir. Kırmızı olduğunda ise serverin çalışması sırasında hatalar alındığını göstermektedir. Bu hatalar arasında MySQL bağlantısının kurulduğunun kontrolü de yer almaktadır.
