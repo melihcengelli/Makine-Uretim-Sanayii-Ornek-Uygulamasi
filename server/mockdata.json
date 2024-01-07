@@ -1,0 +1,73 @@
+{
+    "makine_verileri":[
+    {
+        "makine_id":1,
+        "makine_adi":"CNC",
+        "durum":true,
+        "time":"14.11.2023 19:07",
+        "spindle_sicakligi":30,
+        "spindle_zorlanmasi":40,
+        "sicaklik":null,
+        "titresim":null,
+        "automatic":null
+    },
+    {
+        "makine_id":2,
+        "makine_adi":"CNC Torna",
+        "durum":true,
+        "time":"14.11.2023 19:07",
+        "spindle_sicakligi":85,
+        "spindle_zorlanmasi":40,
+        "sicaklik":null,
+        "titresim":null,
+        "automatic":null
+    },
+    {
+        "makine_id":3,
+        "makine_adi":"Eksantrik Pres",
+        "durum":false,
+        "time":"14.11.2023 19:07",
+        "spindle_sicakligi":null,
+        "spindle_zorlanmasi":null,
+        "sicaklik":70,
+        "titresim":60,
+        "automatic":1
+    },
+    {
+        "makine_id":4,
+        "makine_adi":"Tel erezyon",
+        "durum":true,
+        "time":"14.11.2023 19:07",
+        "spindle_sicakligi":null,
+        "spindle_zorlanmasi":null,
+        "sicaklik":70,
+        "titresim":60,
+        "automatic":null
+    },
+    {
+        "makine_id":5,
+        "makine_adi":"Freze",
+        "durum":true,
+        "time":"14.11.2023 19:07",
+        "spindle_sicakligi":null,
+        "spindle_zorlanmasi":50,
+        "sicaklik":null,
+        "titresim":60,
+        "automatic":null
+    },
+    {
+        "makine_id":6,
+        "makine_adi":"Hidrolik Pres",
+        "durum":true,
+        "time":"14.11.2023 19:07",
+        "spindle_sicakligi":null,
+        "spindle_zorlanmasi":null,
+        "sicaklik":80,
+        "titresim":60,
+        "automatic":1
+    }
+
+
+]
+    
+}
