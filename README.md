@@ -1,0 +1,1 @@
+# Makine-Uretim-Sanayii-Ornek-Uygulamasi
