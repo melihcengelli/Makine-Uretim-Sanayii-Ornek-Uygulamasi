@@ -62,6 +62,16 @@ Makine Verileri Tablosu içerisinde makinenin adı, makinenin çalışma durumu,
 
 ![image](./images/2.png)
 
+## İstediğiniz Makineyi Tablo Üzerinden Kapatmak/Açmak
+
+Sorun gördüğünüz makineleri tablo üzerinden çalışma durumu simgelerine tıklayarak kapatabilirsiniz.
+
+![image](./images/16.png)
+
+Aynı şekilde kapalı olan makinelerin çalışma durumu simgelerine tıklayarak da makineleri açabilirsiniz.
+
+![image](./images/17.png)
+
 ## Yeni Ölçümlerin Alınması
 Belirli periodlarla makine verilerinin ölçülmesinin dışında kullanıcı manuel olarak makine değerlerini güncellemek istediğinde yeni ölçümler yaparak değerleri güncelleyebilir.
 
